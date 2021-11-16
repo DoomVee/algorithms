@@ -1,4 +1,7 @@
 .idea/
 node_modules/
-coverage/
-!coverage/lcov-report/**
+
+# Coverage Ignore
+coverage/clover.xml
+coverage/coverage-final.json
+coverage/lcov.info
