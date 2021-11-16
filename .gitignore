@@ -1,4 +1,4 @@
 .idea/
 node_modules/
 coverage/
-!coverage/lcov-report/
+!coverage/lcov-report/**
